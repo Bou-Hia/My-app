@@ -1,1 +1,1 @@
-print("Fuck the rest ,i'm the Best")
+print("I'm the Best")
