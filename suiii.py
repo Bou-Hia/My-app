@@ -1,0 +1,1 @@
+print("Fuck the rest ,i'm the Best")
